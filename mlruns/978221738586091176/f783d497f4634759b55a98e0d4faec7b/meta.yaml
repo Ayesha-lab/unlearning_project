@@ -1,0 +1,14 @@
+artifact_uri: /home/ayesha/unlearning_project/mlruns/978221738586091176/f783d497f4634759b55a98e0d4faec7b/artifacts
+end_time: 1769020763711
+entry_point_name: ''
+experiment_id: '978221738586091176'
+lifecycle_stage: active
+run_id: f783d497f4634759b55a98e0d4faec7b
+run_name: selective-pig-580
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1769020689240
+status: 3
+tags: []
+user_id: ayesha

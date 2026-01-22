@@ -1,0 +1,14 @@
+artifact_uri: /home/ayesha/unlearning_project/mlruns/978221738586091176/612151e2cf7045c5be3020a0b23ce26f/artifacts
+end_time: 1769034054511
+entry_point_name: ''
+experiment_id: '978221738586091176'
+lifecycle_stage: active
+run_id: 612151e2cf7045c5be3020a0b23ce26f
+run_name: bouncy-sloth-16
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1769034006685
+status: 4
+tags: []
+user_id: ayesha

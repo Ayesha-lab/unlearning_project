@@ -1,0 +1,14 @@
+artifact_uri: /home/ayesha/unlearning_project/mlruns/978221738586091176/cf9428a8dadf4d8faf57bd997d8d391c/artifacts
+end_time: 1769033844666
+entry_point_name: ''
+experiment_id: '978221738586091176'
+lifecycle_stage: active
+run_id: cf9428a8dadf4d8faf57bd997d8d391c
+run_name: lr_0.1_epochs_15_bs_32
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1769033844660
+status: 3
+tags: []
+user_id: ayesha

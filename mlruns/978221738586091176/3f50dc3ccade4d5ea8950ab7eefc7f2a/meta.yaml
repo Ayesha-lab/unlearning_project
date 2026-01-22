@@ -1,0 +1,14 @@
+artifact_uri: /home/ayesha/unlearning_project/mlruns/978221738586091176/3f50dc3ccade4d5ea8950ab7eefc7f2a/artifacts
+end_time: 1769031803321
+entry_point_name: ''
+experiment_id: '978221738586091176'
+lifecycle_stage: active
+run_id: 3f50dc3ccade4d5ea8950ab7eefc7f2a
+run_name: big-ram-646
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1769031765010
+status: 3
+tags: []
+user_id: ayesha
